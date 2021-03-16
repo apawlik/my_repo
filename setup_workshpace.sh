@@ -1,5 +1,7 @@
 #!/bin/bash -e
 
+#Testing ssh connection to GitHub
+
 ## STEP 1
 ## 1.1 Make sure we are in home directory.
 ## 1.2 create a project directory (if it doesn't exist) and navigate into it
